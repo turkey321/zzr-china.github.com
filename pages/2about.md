@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 icon: glyphicon-heart
 ---
 
-### 关于我
 
-> 2016年我将步入找工作的大潮，希望做一个前端开发工程师。 **[在线简历 Online CV](http://www.zhangzirui.com/resumeonline/#/)**（未完成）
+> 2016年我将步入找工作的大潮，希望做一个前端开发工程师。 **[在线简历 Online CV](http://www.zhangzirui.com/resumeonline/#/)**
 
 在校本科生一枚，就读于南京理工大学泰州科技学校软件工程专业，2016年毕业。   
 
