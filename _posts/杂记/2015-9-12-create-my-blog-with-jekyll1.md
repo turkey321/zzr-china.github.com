@@ -48,6 +48,13 @@ cd到RubyGems目录
 
 ---
 
+### 安装DevKit
+
+DevKit 是windows平台下编译和使用本地C/C++扩展包的工具。它就是用来模拟Linux平台下的make, gcc, sh来进行编译。注：这个方法目前仅支持通过RubyInstaller安装的Ruby，如果不是建议你重新安装。安装方法：双击下载的7z文件，指定解压路径，路径中不能有空格。如C:\DevKit，这个路径就是<DEVKIT_INSTALL_DIR>。
+根据自己的ruby版本下载响应的devkit版本
+
+---
+
 ### 用RubyGems安装Jekyll
 
 执行下面的语句安装   
