@@ -1,0 +1,566 @@
+baidu CDN
+<!-- 新 Bootstrap 核心 CSS 文件 -->
+<link href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- 可选的Bootstrap主题文件（一般不使用） -->
+<script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap-theme.min.css"></script>
+
+<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+<script src="http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js"></script>
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+
+?a1Tm=}kPu{V
+BSFNDOM4
+18,4
+jekyll: jekyll serve 运行本地服务器
+        rake post title=" " 创建post文件
+		rake life title=" " 创建life文件
+		rake page title=" " 创建page文件
+		
+Chrome--ctrl+alt+i(my);ctrl+shift+t:打开刚关闭的窗口
+Notepad++plus--ctrl+alt+n(my)
+      ctrl+o:打开
+      ctrl+shift+t:打开上次关闭的软件
+	  ctrl+shift+l:删除一行文字
+	  ctrl+tab:快速切换文本
+	  
+Windows快捷键，是指在Windows操作系统下，操作电脑的快捷方式。
+   alt+enter&alt+鼠标双击:快速打开文件属性
+   快速打开命令行：其实Windows有个不显眼的功能是这样的，同样还是以定位到D盘foo文件夹下的一个bar子文件夹为例，在bar文件夹里，将鼠标置于空白处，按住Shift键不放，同时右击鼠标，这时在出来的右键菜单里会出现一个"打开命令行" 的菜单选项。
+帮助按F1键
+目录
+1 快捷方式
+2 IE浏览器
+3 小键盘
+4 WIN键
+5 资源管理器
+6 对话框
+7 我的电脑
+8 放大程序
+9 辅助选项
+10 XP键盘
+11 对话框
+12 自然键盘
+13 辅助键盘
+14 键盘
+15 Win系统
+16 Win快捷键
+快捷方式 编辑
+
+F1 显示当前程序或者windows的帮助内容。
+F2 当你选中一个文件的话，这意味着“重命名”
+F3 当你在桌面上的时候是打开“查找：所有文件” 对话框
+F5 刷新
+F10或ALT 激活当前程序的菜单栏
+F11当你在打开网页时，是隐藏侧边栏
+F12在编辑好Excel 或Word文档，可“另存为”
+Backspace 如果在“另存为”或“打开”对话框中选中了某个文件夹，则打开上一级文件夹
+Enter 对于许多选定命令代替单击鼠标
+空格键 如果活动选项是复选框，则选中或清除该复选框
+箭头键 如果活动选项是一组选项按钮，则选择某个按钮
+windows键或CTRL+ESC 打开开始菜单
+CTRL+ALfT+fDELETE 在win9x中打开关闭程序对话框
+CTRL+SHIFT+ESC 或 CTRL+ALT+DELETE打开任务管理器
+CTRL+SHIFT+ESC win9x中打开开始菜单
+DELETE删除被选中的项目，如果是文件，将被放入回收站
+SHIFT+DELETE 删除被选中的项目，如果是文件，将被直接删除而不是放入回收站
+CTRL+SHIFT+N 新建一个新的文件夹
+CTRL+A 全选文件夹内的文件
+CTRL+O 打开“打开文件”对话框
+CTRL+P 打开“打印”对话框
+CTRL+S 保存当前操作的文件
+CTRL+W关闭当前的窗口
+CTRL+ X剪切被选择的项目到剪贴板
+CTRL+INSERT 或 CTRL+C 复制被选择的项目到剪贴板
+CTRL+Shift 切换中英文输入法和（CTRL+空格的作用一样）
+CTRL+F4 关闭当前应用程序中的当前文本（如word中）
+CTRL+F6 切换到当前应用程序中的下一个文本
+Ctrl+Tab 在选项卡上向前移动
+Ctrl+Shift+Tab 在选项卡上向后移动
+CTRL+ALT+方向键或CTRL+方向键 可以滚动屏幕
+SHIFT+INSERT 或 CTRL+V 粘贴剪贴板中的内容到当前位置
+Shift+Tab 在选项上向后移动
+ALT+BACKSPACE 或 CTRL+Z 撤销上一步的操作
+ALT+SHIFT+BACKSPACE 或CTRL+Y 重做上一步被撤销的操作
+Alt+加下划线的字母 执行与该字母匹配的命令（或选择选项）
+SHIFT+F10或鼠标右击 打开当前活动项目的快捷菜单
+SHIFT 在放入CD的时候按下不放，可以跳过自动播放CD。在打开word的时候按下不放，可以跳过自启动的宏
+ALT+F4 关闭当前应用程序
+ALT+SPACEBAR 打开程序最左上角的菜单
+ALT+TAB 切换当前程序 （加SHIFT反向）
+ALT+ESC 切换当前程序 （加SHIFT反向）
+ALT+ENTER 将windows下运行的MSDOS窗口在窗口和全屏幕状态间切换
+PRINT SCREEN 将当前屏幕以图像方式拷贝到剪贴板
+ALT+PRINT SCREEN 将当前活动程序窗口以图像方式拷贝到剪贴板（加shift 可以跳到前一个窗口）
+Windows键+B 选中桌面右下方工具栏
+Windows键+D 显示桌面
+Windows键+E 打开我的电脑
+Windows键+F 打开“查找：所有文件”对话框
+Windows键+L 锁定计算机或切换用户
+Windows键+M最小化所有窗口
+Windows键+SHIFT+M将最小化的窗口还原到桌面
+Windows键+R打开“运行”对话框
+Windows键+U打开辅助工具管理器
+Windows键+BREAK打开“系统属性”对话框
+Windows键+CTRL+F 搜索计算机（如果已连接到网络）
+Windows键+ Pause 显示“系统属性”对话框
+Windows键 + T 循环切换任务栏上的程序（win7、win8）
+Windows键+ 数字 启动锁定到任务栏中的由该数字所表示位置处的程序。如果该程序已在运行，则切换到该程序（win7）
+Shift + Windows键 + 数字 启动锁定到任务栏中的由该数字所表示位置处的程序的新实例（win7）
+Alt + Windows键 + 数字 打开锁定到任务栏中的由该数字所表示位置处的程序的跳转列表 (Jump List) （win7）
+Windows键 + Tab 使用 Aero Flip 3-D 循环切换任务栏上的程（win7）
+Ctrl + Windows键 + Tab 通过 Aero Flip 3-D 使用箭头键循环切换任务栏上的程序 （win7）
+Windows键 + 空格键 预览桌面 （win7）
+Windows键+ 向上键最大化窗口（win7）
+Windows键+ 向左键将窗口最大化到屏幕的左侧（win7）
+Windows键+ 向右键将窗口最大化到屏幕的右侧（win7）
+Windows键+ 向下键最小化窗口（win7）
+Windows键+ Home最小化除活动窗口之外的所有窗口（win7）
+Windows键+ Shift + 向上键将窗口拉伸到屏幕的顶部和底部。（win7）
+Windows键+ Shift + 向左键或向右键将窗口从一个监视器移动到另一个监视器（win7）
+Windows键+ P选择演示显示模式（win7）
+Windows键+ G循环切换小工具（win7）
+Windows键+ U 打开轻松访问中心（win7）
+Windows键+ X 打开 Windows 移动中心（win7）
+windows键+数字键 打开任务栏上快捷启动项 从开始菜单以后开始 对应123……。（win8.1）
+IE浏览器 编辑
+
+显示前一页（前进键） ALT+RIGHT ARROW
+显示后一页（后退键） ALT+LEFT ARROW
+在页面上的各框架中切换 （加shift反向）CTRL+TAB
+这个键用来打开IE中的地址栏列表，要关闭IE窗口，可以用Alt+F4组合键 F4
+刷新 F5
+强行刷新 CTRL+F5
+可以快速在资源管理器及IE中定位到地址栏 F6
+激活程序中的菜单栏 F10
+可以使当前的资源管理器或IE变为全屏显示 F11
+执行菜单上相应的命令 ALT+菜单上带下划线的字母
+关闭多文档界面程序中的当前窗口 CTRL+ F4
+关闭当前窗口或退出程序 ALT+ F4
+查找 CTRL+ F
+复制 CTRL+ C
+剪切 CTRL+ X
+粘贴 CTRL+ V
+删除 DELETE
+撤消 CTRL+ Z
+添加当前页面到收藏夹 CTRL+ D
+显示所选对话框项目的帮助 F1
+显示当前窗口的系统菜单 ALT+空格键
+显示所选项目的快捷菜单 SHIFT+ F10
+显示“开始”菜单 CTRL+ ESC
+显示多文档界面程序的系统菜单 ALT+连字号(-)
+切换到上次使用的窗口 按住ALT然后重复按TAB，
+切换到另一个窗口 ALT+ TAB
+在后台打开一个页面 CTRL+ 鼠标左键单击
+在新窗口中打开一个页面 SHIFT+ 鼠标左键单击
+小键盘 编辑
+
+NUM LOCK+负号(-)折叠所选的文件夹
+NUM LOCK+乘号(*)展开所选的文件夹下的所有文件及文件夹
+NUM LOCK+加号(+) 展开所选的文件夹
+F6或TAB键在左右窗格间切换
+WIN键 编辑
+
+可以使用 Microsoft自然键盘或含有 Windows徽标键的其他任何兼容键盘的以下快捷键。
+
+WIN键
+在任务栏上的按钮间循环 WINDOWS+ TAB
+显示“查找：所有文件” WINDOWS+ F
+显示“查找：计算机” CTRL+ WINDOWS+ F
+显示“帮助” WINDOWS+ F1
+显示“运行”命令 WINDOWS+ R
+显示“开始”菜单 WINDOWS
+显示“系统属性”对话框 WINDOWS+ BREAK
+显示“Windows资源管理器” WINDOWS+ E
+显示桌面WINDOWS+D
+最小化窗口WINDOWS+M
+WINDOWS+ D撤消最小化所有窗口 SHIFT+ WINDOWS+ M
+WIN键+P键：多荧幕\投影仪选项。（WIN7）
+WIN键+空格键：如果开启了AERO效果，就会暂时显示桌面，松开WIN键切回原窗口。(WIN7）
+WIN键+方向键（上下左右）：可以将当前窗口整体移至屏幕的最上、最下、最左、最右边，相当于用鼠标拖动窗口至边缘直到鼠标不能再移动的那种。（WIN7）
+WIN键+T键：显示任务栏当前所用程序的缩略图，再按一次切换到其他缩略图。（QWIN7）
+WIN键+数字键：切换当前窗口，按住WIN键再按一次数字键则切换到选项卡的其他窗口。
+WIN键+B键：将光标移至任务栏。（WIN7）
+资源管理器 编辑
+
+关闭所选文件夹及其所有父文件夹
+按住 SHIFT键再单击“关闭按钮（仅适用于“我的电脑”）
+向后移动到上一个视图 ALT+左箭头
+向前移动到上一个视图 ALT+右箭头
+查看上一级文件夹 BACKSPACE
+对话框 编辑
+
+取消当前任务 ESC
+如果当前控件是个按钮，要单击该按钮。
+如果当前控件是个复选框，要选择或清除该复选框
+或者如果当前控件是个选项按钮，要单击该选项空格键
+单击相应的命令 ALT+带下划线的字母
+单击所选按钮 ENTER
+在选项上向后移动 SHIFT+ TAB
+在选项卡上向后移动 CTRL+ SHIFT+ TAB
+在选项上向前移动 TAB
+在选项卡上向前移动 CTRL+ TAB
+如果在“另存为”或“打开”对话框中选择了某文件夹，要打开上一级文件夹
+BACKSPACE
+在“另存为”或“打开”对话框中打开“保存到”或“查阅” F4
+刷新“另存为”或“打开”对话框 F5
+我的电脑 编辑
+
+插入光盘时不用“自动播放”功能 按住 SHIFT插入 CD-ROM
+复制文件 按住CTRL拖动文件
+创建快捷方式按住 CTRL+SHIFT拖动文件 或按住 ALT拖动文件
+立即删除某项目而不将其放入回收站 SHIFT+DELETE
+显示“查找：所有文件” F3
+显示项目的快捷菜单 APPLICATION键
+刷新窗口的内容 F5
+重命名项目 F2
+选择所有项目 CTRL+ A
+查看项目的属性 ALT+ ENTER或 ALT+双击
+放大程序 编辑
+
+Windows+PRINT SCREEN 将屏幕复制到剪贴板（包括鼠标光标）
+Windows+SCROLL LOCK 将屏幕复制到剪贴板（不包括鼠标光标）
+Windows+PAGE UP 切换反色。
+Windows+ PAGE DOWN 切换跟随鼠标光标
+Windows+向上箭头 增加放大率
+Windows+向下箭头 减小放大率
+辅助选项编辑
+切换筛选键开关 右SHIFT八秒
+切换高对比度开关 左ALT+左SHIFT+PRINT SCREEN
+切换鼠标键开关 左ALT+左SHIFT+NUM LOCK
+切换粘滞键开关 SHIFT键五次
+切换切换键开关 NUM LOCK五秒
+XP键盘编辑
+Ctrl + C 复制。
+Ctrl + X 剪切。
+Ctrl + V 粘贴。
+Ctrl + Z 撤消。
+DELETE 删除。
+Shift + Delete 永久删除所选项，而不将它放到“回收站”中。
+拖动某一项时按 CTRL 复制所选项。
+拖动某一项时按 CTRL + SHIFT 创建所选项目的快捷键。
+F2 重新命名所选项目。
+CTRL + 向右键 将插入点移动到下一个单词的起始处。
+CTRL + 向左键 将插入点移动到前一个单词的起始处。
+CTRL + 向下键 将插入点移动到下一段落的起始处。
+CTRL + 向上键 将插入点移动到前一段落的起始处。
+CTRL + SHIFT + 任何箭头键 突出显示一块文本。
+SHIFT + 任何箭头键 在窗口或桌面上选择多项，或者选中文档中的文本。
+Ctrl + A 选中全部内容。
+F3 搜索文件或文件夹。
+Alt + Enter 查看所选项目的属性。
+Alt + F4 关闭当前项目或者退出当前程序。
+Alt + 空格键 为当前窗口打开快捷菜单。
+Ctrl + F4 在允许同时打开多个文档的程序中关闭当前文档。
+Alt + Tab 在打开的项目之间切换。
+Alt + Esc 以项目打开的顺序循环切换。
+F6 在窗口或桌面上循环切换屏幕元素。
+F9+FN键是键盘锁定
+F4 显示“我的电脑”和“Windows 资源管理器”中的“地址”栏列表。
+Shift + F10 显示所选项的快捷菜单。
+Alt + 空格键 显示当前窗口的“系统”菜单。
+Ctrl + Esc 显示“开始”菜单。
+ALT + 菜单名中带下划线的字母 显示相应的菜单。
+在打开的菜单上显示的命令名称中带有下划线的字母 执行相应的命令。
+F10 激活当前程序中的菜单条。
+右箭头键 打开右边的下一菜单或者打开子菜单。
+左箭头键 打开左边的下一菜单或者关闭子菜单。
+F5 刷新当前窗口。
+BackSpace 在“我的电脑”或“Windows 资源管理器”中查看上一层文件夹。
+Esc 取消当前任务。
+将光盘插入到 CD-ROM 驱动器时按 SHIFT 键 阻止光盘自动播放。
+对话框编辑
+Ctrl + Tab 在选项卡之间向前移动。
+Ctrl + Shift +Tab 在选项卡之间向后移动。
+Tab 在选项之间向前移动。
+Shift + Tab 在选项之间向后移动。
+ALT + 带下划线的字母 执行相应的命令或选中相应的选项。
+Enter 执行活选项动或按钮所对应的命令。
+空格键 如果活选项动是复选框，则选中或清除该复选框。
+箭头键 活选项动是一组选项按钮时，请选中某个按钮。
+F1 显示帮助。
+F4 显示当前列表中的项目。
+自然键盘编辑
+WIN 显示或隐藏"开始"菜单。
+WIN+ BREAK 显示"系统属性"对话框。
+WIN+ D 显示桌面。
+WIN+ M 最小化所有窗口。
+WIN+ Shift + M 还原最小化的窗口。
+WIN+ E 打开"我的电脑"。
+WIN+ F 搜索文件或文件夹。
+CTRL+WIN+ F 搜索计算机。
+WIN+ F1 显示 Windows 帮助。
+WIN+ L 如果连接到网络域，则锁定您的计算机，或者如果没有连接到网络域，则切换用户。
+WIN+ R 打开"运行"对话框。
+KEY 显示所选项的快捷菜单。
+WIN+ U 打开"工具管理器"。
+辅助键盘编辑
+右侧 SHIFT 键八秒钟 切换“筛选键”的开和关。
+左边的 ALT + 左边的 SHIFT + PRINT SCREEN 切换“高对比度”的开和关。
+左边的 ALT + 左边的 SHIFT + NUM LOCK 切换“鼠标键”的开和关。
+Shift 键五次 切换“粘滞键”的开和关。
+Num Lock 键五秒钟 切换“切换键”的开和关。
+WIN+ U 打开“工具管理器”。
+键盘编辑
+按键 目的
+END 显示当前窗口的底端。
+Home 显示当前窗口的顶端。
+NUM LOCK + 数字键盘的星号 (*) 显示所选文件夹的所有子文件夹。
+NUM LOCK + 数字键盘的加号 (+) 显示所选文件夹的内容。
+NUM LOCK + 数字键盘的减号 (-) 折叠所选的文件夹。
+左箭头键 当前所选项处于展开状态时折叠该项，或选定其父文件夹。
+右箭头键 当前所选项处于折叠状态时展开该项，或选定第一文件夹。
+Win系统编辑
+Windows中的快捷键我们都很熟悉了，可是下面这些快捷键你平时用过吗？与普通的快捷键相比，它们的使用方法有些特别：这些键不能同时按下，而是要用两步或三步的连续操作，才能实现一项功能。虽然如此，使用这些快捷键也比使用鼠标方便。
+Alt+空格→X 最大化当前窗口
+Alt+空格→N 最小化当前窗口
+提示：“Alt+空格→X”表示先按下“Alt+空格”组合键，然后松开组合键，再按下X键。下面“→”符号均表示先松开符号前按下的键，再按下符号后面的键。
+在桌面或文件夹窗口中可使用以下快捷键（注意是文件夹窗口而不是具体的文件夹）：
+右键→I→N 按名称排列图标
+右键→I→T 按类型排列图标（搞IT的应该记得住吧）
+右键→I→Z 按大小排列图标
+右键→I→D 按日期排列图标
+右键→W→F 新建文件夹
+右键→R 若在桌面则打开“显示属性”在文件夹则打开该文件夹的属性
+右键→E 刷新当前窗口，效果等同F5
+提示：这里的“右键”指的是主键盘区最下排右侧的Windows徽标键和Ctrl之间的那个键。
+如果当前窗口是某个具体文件或文件夹：
+右键→S 创建当前文件或目录的快捷方式
+右键→R 查看当前文件或目录属性（相当于Alt+Enter）
+右键→O 打开当前文件或目录（相当于回车）
+右键→T→A 发送当前文件或目录到软盘
+注意：有些软件可能会在右键里增加一些菜单，这些菜单的快捷键可能会与系统快捷键发生冲突。比如WinRAR会在文件或文件夹的右键菜单中增加一个“添加到”的菜单，该菜单的快捷键S会与系统右键菜单“创建快捷方式（S）”发生冲突。如果要去掉这些“外来”的右键菜单，我们可以打开WinRAR，在菜单栏上依次点击“选项→设置”，打开“设置”对话框，在“综合”选项卡中点击“选择关联菜单项目”按钮，在打开的对话框中清空所有选项前的复选框即可。
+如果当前窗口是记事本：
+右键→U 撤消操作，效果等同与Ctrl+Z
+右键→P 粘贴，效果等同与Ctrl+V
+右键→A 选中全部文字，效果等同于Ctrl+A
+使用“我的电脑”和“Windows资源管理器”的快捷键
+目的快捷键
+关闭所选文件夹及其所有父
+文件夹按住 SHIFT键再单击“关闭按钮（仅适用于“我的电脑”）
+向后移动到上一个视图 ALT+左箭头
+向前移动到上一个视图 ALT+右箭头
+查看上一级文件夹 BACKSPACE
+其实，这些快捷键大家都可以在相关程序的右键菜单中找到，在这里只是选择了几个比较实用的归纳了一下，你也可以自己研究。比如当前窗口是某个文件或文件夹，那么用“右键→M”就可以对该文件或文件夹进行重命名操作。不同的程序有不同的快捷键，大家可以自己研究试用，举一反三。
+Win快捷键编辑
+一、常见用法：
+F1 显示当前程序或者windows的帮助内容。
+F2 当你选中一个文件的话，这意味着“重命名”
+F3 当你在桌面上的时候是打开“查找：所有文件” 对话框
+F10或ALT 激活当前程序的菜单栏
+windows键或CTRL+ESC 打开开始菜单
+CTRL+ALT+DELETE 在win9x中打开关闭程序对话框
+DELETE 删除被选择的选择项目，如果是文件，将被放入回收站
+SHIFT+DELETE 删除被选择的选择项目，如果是文件，将被直接删除而不是放入回收站
+CTRL+N 新建一个新的文件
+CTRL+O 打开“打开文件”对话框
+CTRL+P 打开“打印”对话框
+CTRL+S 保存当前操作的文件
+CTRL+X 剪切被选择的项目到剪贴板
+CTRL+INSERT 或 CTRL+C 复制被选择的项目到剪贴板
+SHIFT+INSERT 或 CTRL+V 粘贴剪贴板中的内容到当前位置
+ALT+BACKSPACE 或 CTRL+Z 撤销上一步的操作
+CTRL+Y 重做上一步被撤销的操作
+ALT+SHIFT+BACKSPACE重做上一步被撤销的操作
+Windows键+M 最小化所有被打开的窗口。
+Windows键+CTRL+M 重新将恢复上一项操作前窗口的大小和位置
+Windows键+E 打开资源管理器
+Windows键+F 打开“查找：所有文件”对话框
+Windows键+R 打开“运行”对话框
+Windows键+BREAK 打开“系统属性”对话框
+Windows键+CTRL+F 打开“查找：计算机”对话框
+SHIFT+F10或鼠标右击 打开当前活动项目的快捷菜单
+SHIFT 在放入CD的时候按下不放，可以跳过自动播放CD。在打开word的时候按下不放，可以跳过自启动的宏
+ALT+F4 关闭当前应用程序
+ALT+SPACEBAR 打开程序最左上角的菜单
+ALT+TAB 切换当前程序
+ALT+ESC 切换当前程序
+ALT+ENTER 将windows下运行的MSDOS窗口在窗口和全屏幕状态间切换
+PRINT SCREEN 将当前屏幕以图象方式拷贝到剪贴板
+ALT+PRINT SCREEN 将当前活动程序窗口以图象方式拷贝到剪贴板
+CTRL+F4 关闭当前应用程序中的当前文本（如word中）
+CTRL+F6 切换到当前应用程序中的下一个文本（加shift 可以跳到前一个窗口）
+在IE中：
+ALT+RIGHT ARROW 显示前一页（前进键）
+ALT+LEFT ARROW 显示后一页（后退键）
+CTRL+TAB 在页面上的各框架中切换（加shift反向）
+F5 刷新
+CTRL+F5 强行刷新
+目的快捷键
+激活程序中的菜单栏 F10
+执行菜单上相应的命令 ALT+菜单上带下划线的字母
+关闭多文档界面程序中的当
+前窗口 CTRL+ F4
+关闭当前窗口或退出程序 ALT+ F4
+复制 CTRL+ C
+剪切 CTRL+ X
+删除 DELETE
+显示所选对话框项目的帮助 F1
+显示当前窗口的系统菜单 ALT+空格键
+显示所选项目的快捷菜单 SHIFT+ F10
+显示“开始”菜单 CTRL+ ESC
+显示多文档界面程序的系统
+菜单 ALT+连字号(-)
+粘贴 CTR L+ V
+切换到上次使用的窗口或者
+按住 ALT然后重复按TAB，
+切换到另一个窗口 ALT+ TAB
+撤消 CTRL+ Z
+二、使用“Windows资源管理器”的快捷键
+目的快捷键
+如果当前选择展开了，要折
+叠或者选择父文件夹左箭头
+折叠所选的文件夹 NUM LOCK+负号(-)
+如果当前选择折叠了，要展开
+或者选择第一个子文件夹右箭头
+展开当前选择下的所有文件夹 NUM LOCK+*
+展开所选的文件夹 NUM LOCK+加号(+)
+在左右窗格间切换 F6
+三、使用 WINDOWS键
+可以使用 Microsoft自然键盘或含有 Windows徽标键的其他任何兼容键盘的以下快捷键。
+目的快捷键
+在任务栏上的按钮间循环 WINDOWS+ TAB
+显示“查找：所有文件” WINDOWS+ F
+显示“查找：计算机” CTRL+ WINDOWS+ F
+显示“帮助” WINDOWS+ F1
+显示“运行”命令 WINDOWS+ R
+显示“开始”菜单 WINDOWS
+显示“系统属性”对话框 WINDOWS+ BREAK
+显示“Windows资源管理器” WINDOWS+ E
+最小化或还原所有窗口 WINDOWS+ D
+撤消最小化所有窗口 SHIFT+ WINDOWS+ M
+四、使用“我的电脑”和“Windows资源管理器”的快捷键
+目的快捷键
+关闭所选文件夹及其所有父
+文件夹按住 SHIFT键再单击“关闭按钮（仅适用于“我的电脑”）
+向后移动到上一个视图 ALT+左箭头
+向前移动到上一个视图 ALT+右箭头
+查看上一级文件夹 BACKSPACE
+五、使用对话框中的快捷键
+目的快捷键
+取消当前任务 ESC
+如果当前控件是个按钮，要
+单击该按钮或者如果当前控
+件是个复选框，要选择或清
+除该复选框或者如果当前控
+件是个选项按钮，要单击该
+选项空格键
+单击相应的命令 ALT+带下划线的字母
+单击所选按钮 ENTER
+在选项上向后移动 CTRL+ TAB
+在选项卡上向后移动 CTRL+ SHIFT+ TAB
+在选项上向前移动 TAB
+在选项卡上向前移动 CTRL+ TAB
+如果在“另存为”或“打开”
+对话框中选择了某文件夹，
+要打开上一级文件夹 BACKSPACE
+在“另存为”或“打开”对
+话框中打开“保存到”或
+“查阅” F4
+刷新“另存为”或“打开”
+对话框 F5
+六、使用“桌面”、“我的电脑”和“Windows资源管理器”快捷键
+选择项目时，可以使用以下快捷键。
+目的快捷键
+插入光盘时不用“自动播放”
+功能按住 SHIFT插入 CD-ROM
+复制文件按住 CTRL拖动文件
+创建快捷方式按住 CTRL+SHIFT拖动文件
+立即删除某项目而不将其放入“回收站” SHIFT+DELETE
+显示“查找：所有文件” F3
+显示项目的快捷菜单 APPLICATION键
+刷新窗口的内容 F5
+重命名项目 F2
+选择所有项目 CTRL+ A
+查看项目的属性 ALT+ ENTER或 ALT+双击
+可将 APPLICATION键用于 Microsoft自然键盘或含有 APPLICATION键的其他兼容键
+七、Microsoft放大程序的快捷键
+这里运用Windows徽标键和其他键的组合。
+快捷键目的
+Windows徽标+PRINT SCREEN将屏幕复制到剪贴板（包括鼠标光标
+Windows徽标+SCROLL LOCK将屏幕复制到剪贴板（不包括鼠标光标）
+Windows徽标+ PAGE UP切换反色。
+Windows徽标+ PAGE DOWN切换跟随鼠标光标
+Windows徽标+向上箭头增加放大率
+Windows徽标+向下箭头减小放大率
+八、使用辅助选项快捷键
+目的快捷键
+切换筛选键开关右SHIFT八秒
+切换高对比度开关左ALT+左SHIFT+PRINT SCREEN
+切换鼠标键开关左ALT+左SHIFT+NUM LOCK
+切换粘滞键开关 SHIFT键五次
+切换切换键开关 NUM LOC2000 快捷键
+Windows 资源管理器”的快捷键
+请按 目的
+END 显示当前窗口的底端。
+HOME 显示当前窗口的顶端。
+NUM LOCK+ 数字键盘的星号 (*) 显示所选文件夹的所有子文件夹。
+NUM LOCK+ 数字键盘的加号 (+) 显示所选文件夹的内容。
+NUM LOCK+ 数字键盘的减号 (-) 折叠所选的文件夹
+向左键 当前所选项处于展开状态时折叠该项，或选定其父文件夹。
+向右键 当前所选项处于折叠状态时展开该项，或选定第一个子文件夹。
+注意
+如果在“辅助功能选项”中打开“粘滞键”，则有些快捷键可能不起作用。
+如果您通过“Microsoft 终端服务客户”连接到 Windows 2000，则某些快捷键将会更改。详细信息，请参阅“Microsoft 终端服务客户”的联机文档。
+f1－帮助
+f2－重命名
+f5－刷新
+alt+f4－关闭窗口
+ctrl+a=全部选中
+ctrl+c=拷贝
+ctrl+v=粘贴
+ctrl+x=剪切
+alt+enter(或ALT+双击鼠标左键)=属性
+电脑常用快捷键！(你的鼠标就可以扔掉了)
+词条标签： 计算机快捷方式
+ 
+Windows快捷键大全图册
+V百科往期回顾
+ 
+“砖头”的发明者
+其他人还看
+
+纠错
+
+快捷键
+
+win7快捷键
+
+电脑快捷键大全
+
+电脑快捷键
+
+Windows键
+
+功能键
+
+截屏键
+
+Windows 10
+
+ctrl
+ 
+词条统计
+浏览次数：676747次
+编辑次数：78次历史版本
+最近更新：2015-08-15
+创建者：君看一叶舟
+1 快捷方式
+2 IE浏览器
+3 小键盘
+4 WIN键
+5 资源管理器
+6 对话框
+7 我的电脑
+8 放大程序
+9 辅助选项
+10 XP键盘
+11 对话框
+12 自然键盘
+13 辅助键盘
+14 键盘
+15 Win系统
+16 Win
