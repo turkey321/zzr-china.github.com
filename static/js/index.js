@@ -145,3 +145,11 @@ function generateContent() {
     }
     console.log("myAffix!!!");
 }
+
+//离开页面改变titile的方法
+    window.onblur = function() {
+      document.title = '你出现了一个BUG！';
+    };
+    window.onfocus = function() {
+      document.title = "Just a Joke";
+    };
