@@ -12,7 +12,7 @@ excerpt: Google JavaScript jQuery  张子锐
 
 
 这篇文章翻译自css-tricks.com，是一位谷歌工程师[Philip Walton](http://philipwalton.com/)的文章,讲解了使用stopPropagation()的坏处。
-另附原文地址[css-tricks](https://css-tricks.com/dangers-stopping-event-propagation/)
+另附原文地址[css-tricks](https://css-tricks.com/dangers-stopping-event-propagation/)<br>
 下面是我的翻译：
 
 ###阻止事件冒泡的隐患
