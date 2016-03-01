@@ -1,22 +1,20 @@
 ---
 layout: post
-title: The Dangers of Stopping Event Propagation
-date: 2015-12-16
-categories: JavaScript jQuery 翻译
-excerpt: Google JavaScript jQuery  张子锐   
+title: Task2学习总结
+date: 2016-2-28
+categories: JavaScript ife
+excerpt: Baidu JavaScript CSS  张子锐   
 ---
 
 * content
 {:toc}
 
 
+## task2学习总结
+今天把[task0002](https://github.com/ZZR-china/ife/blob/master/task%2Ftask0002%2FREADME.md)
+的几个项目看完了，学到了很多，也意识到了自己的很多不足。
 
-## 我的翻译
-这篇文章翻译自css-tricks.com，是一位谷歌工程师[Philip Walton](http://philipwalton.com/)的文章,讲解了使用stopPropagation()的坏处。
-另附原文地址[css-tricks](https://css-tricks.com/dangers-stopping-event-propagation/)<br>
-下面是我的翻译：
-
-###阻止事件冒泡的隐患
+###实现功能模块的逻辑性很重要
 <br>
 <pre>
 接下来是一篇来宾博文，作者是[Philip Walton](http://philipwalton.com/)[@philwalton](http://twitter.com/philwalton)。
